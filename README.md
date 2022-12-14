@@ -19,6 +19,7 @@ Run `unigit.sh` from inside any Unity Project Directory, including child directo
 ## Credits
 
 [CodeAndGin](https://github.com/CodeAndGin): Author
+
 [linojon](https://gist.github.com/linojon): .gitignore and .gitattributes
 
 ## Licence
